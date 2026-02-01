@@ -1,0 +1,14 @@
+/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/deps/serde-80b2222914f83b77.d: /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/build/serde-fdb261d246f256ff/out/private.rs
+
+/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/deps/libserde-80b2222914f83b77.rlib: /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/build/serde-fdb261d246f256ff/out/private.rs
+
+/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/deps/libserde-80b2222914f83b77.rmeta: /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/build/serde-fdb261d246f256ff/out/private.rs
+
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/build/serde-fdb261d246f256ff/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/build/serde-fdb261d246f256ff/out

@@ -1,0 +1,14 @@
+    Updating crates.io index
+error: failed to select a version for `chrono`.
+    ... required by package `arrow-arith v51.0.0`
+    ... which satisfies dependency `arrow-arith = "^51.0.0"` of package `arrow v51.0.0`
+    ... which satisfies dependency `arrow = "^51"` of package `duckdb v0.10.2`
+    ... which satisfies dependency `duckdb = "=0.10.2"` of package `ducktools v0.1.0 (/Users/edmundkarner/Desktop/ducktools/ducktools)`
+versions that meet the requirements `^0.4.34` are: 0.4.43, 0.4.42, 0.4.41, 0.4.40, 0.4.39, 0.4.38, 0.4.37, 0.4.35, 0.4.34
+
+all possible versions conflict with previously selected packages.
+
+  previously selected package `chrono v0.4.31`
+    ... which satisfies dependency `chrono = "=0.4.31"` of package `ducktools v0.1.0 (/Users/edmundkarner/Desktop/ducktools/ducktools)`
+
+failed to select a version for `chrono` which could resolve this conflict

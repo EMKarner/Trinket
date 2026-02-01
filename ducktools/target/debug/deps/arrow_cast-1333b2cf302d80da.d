@@ -1,0 +1,10 @@
+/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/deps/arrow_cast-1333b2cf302d80da.d: /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/lib.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/cast.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/display.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/parse.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/pretty.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/base64.rs
+
+/Users/edmundkarner/Desktop/ducktools/ducktools/target/debug/deps/libarrow_cast-1333b2cf302d80da.rmeta: /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/lib.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/cast.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/display.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/parse.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/pretty.rs /Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/base64.rs
+
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/lib.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/cast.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/display.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/parse.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/pretty.rs:
+/Users/edmundkarner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrow-cast-51.0.0/src/base64.rs:
